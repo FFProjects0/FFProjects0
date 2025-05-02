@@ -3,6 +3,8 @@
 I post projects i often make here, some of it is useful or it's something stupid and utterly useless, stay tuned!
 https://ffprojects.neocities.org
 
+> [!CAUTION]
+> fish
 <!--
 **FFProjects0/FFProjects0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
