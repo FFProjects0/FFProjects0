@@ -1,4 +1,6 @@
 ## $${\color{red}Welcome \space\space\space \color{lightblue}To \space\space\space \color{orange}FFProjects0! \space\space\space \color{lightgreen}:3}$$
+
+I post projects i often make here, some of it useful or it's something stupid and utterly useless, stay tuned!
 https://ffprojects.neocities.org
 
 <!--
