@@ -1,10 +1,8 @@
-## $${\color{red}Welcome \space\space\space \color{lightblue}To \space\space\space \color{orange}FFProjects0! \space\space\space \color{lightgreen}:3}$$
-
-I post projects i often make here, some of it is useful or it's something stupid and utterly useless, stay tuned!
+## $${\color{red}Welcome \space\space\space \color{lightblue}To \space\space\space \color{orange}FFProjects0! \space\space\space \color{lightgreen}:3}$
 https://ffprojects.neocities.org
-
 > [!CAUTION]
 > fish
+I post projects i often make here, some of it is useful or it's something stupid and utterly useless, stay tuned!
 <!--
 **FFProjects0/FFProjects0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
